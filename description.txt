@@ -1,1 +1,5 @@
 I put nerd in your nerd
+
+Serves as a good example for overriding every image being drawn.
+Code here: https://github.com/steviegt6/nerd
+Join the Discord: https://discord.gg/Y8bvvqyFQw
