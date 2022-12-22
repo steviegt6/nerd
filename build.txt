@@ -1,0 +1,3 @@
+displayName = nerd
+author = Tomat
+version = 0.1
